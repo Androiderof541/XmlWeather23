@@ -1,0 +1,34 @@
+﻿<Response>
+	<ResultCode>0</ResultCode>
+	<ErrorMsg>成功</ErrorMsg>
+	<Item>
+		<TypeID>001</TypeID>
+		<TypeName>西药费</TypeName></Item>
+	<Item>
+		<TypeID>002</TypeID>
+		<TypeName>中成药费</TypeName></Item>
+	<Item>
+		<TypeID>003</TypeID>
+		<TypeName>中草药费</TypeName></Item>
+	<Item>
+		<TypeID>004</TypeID>
+		<TypeName>床位费</TypeName></Item>
+	<Item>
+		<TypeID>015</TypeID>
+		<TypeName>检验费</TypeName></Item>
+	<Item>
+		<TypeID>027</TypeID>
+		<TypeName>氧气费</TypeName></Item>	
+	<Item>
+		<TypeID>030</TypeID>
+		<TypeName>诊查费</TypeName></Item>
+	<Item>
+		<TypeID>031</TypeID>
+		<TypeName>治疗费</TypeName></Item>
+	<Item>
+		<TypeID>032</TypeID>
+		<TypeName>住院费</TypeName></Item>
+	<Item>
+		<TypeID>034</TypeID>
+		<TypeName>其他费</TypeName></Item>	
+</Response>
